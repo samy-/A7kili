@@ -1,2 +1,2 @@
 # A7kili
-Client Server chat application
+Client Server chat application based on Qt framework
