@@ -2,6 +2,7 @@
 Client Server chat multiplatform application based on Qt framework
 
 For each subscribed user, the server manages a folder that contains two separate files for storing the received and sent messages.
+
 Each subscribed client can see the other connected users and send them instant messages via the chat interface.
 On the other hand, when a client is disconnected, the server stores locally any message destined to the latter and transfer it later when the corresponding user is online.
 On every new connection, on the chat interface, each client gets a notification of the number of new unread messages that he can consult in his inbox window.
