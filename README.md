@@ -13,5 +13,14 @@ On the server side, exchanged messages can be seen using the log function as wel
 Before building the application please make sure to set correctly the server Ip adress and port. (by default the client tries to connect to the server on local machine)
 By default the server listens on port 50885.
 
+#Screen Shots
+![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/Subscription.png)
+![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/ConnectionInterface.png)
+
+![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/ChatInterface.png)
+![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/receivedMessages.png)
+
+![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/Server_Connected_clients.png)
+
 #License & Copyright
 MIT licensed, see LICENSE file.
