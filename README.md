@@ -17,10 +17,11 @@ By default the server listens on port 50885.
 ![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/Subscription.png)
 ![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/ConnectionInterface.png)
 
-![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/ChatInterface.png)
-![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/receivedMessages.png)
-
+![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/chat.png)
 ![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/Server_Connected_clients.png)
+
+![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/NewMessages.png)
+![alt tag](https://raw.githubusercontent.com/samy-/A7kili/master/img/receivedMessages.png)
 
 #License & Copyright
 MIT licensed, see LICENSE file.
