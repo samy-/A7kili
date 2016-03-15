@@ -7,7 +7,7 @@ Each subscribed client can see the other connected users and send them instant m
 On the other hand, when a client is disconnected, the server stores locally any message destined to the latter and transfer it later when the corresponding user is online.
 On every new connection, on the chat interface, each client gets a notification of the number of new unread messages that he can consult in his inbox window.
 
-On the server side, exchanged messages can be seen using the log function as well as the connected clients. 
+On the server side, one can get the list of connected clients and the exchanged messages in Real Time 
 
 
 #Building the app
